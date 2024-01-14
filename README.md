@@ -1,2 +1,4 @@
 # shipbuilder
-A Package which helps me prepare my work environment for building all my python packages
+A Package which helps to customize the work environment for building python based applications
+
+This package will help build python applications faster, consistent across the author's work environments
